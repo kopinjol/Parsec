@@ -1,2 +1,2 @@
 # Parsec
-A real space DFT code.r 
+A real space DFT code.
